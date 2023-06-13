@@ -12,7 +12,7 @@
   font-family: "Poppins", sans-serif;
   position: relative;
   font-weight: 700;
-  color: var(--grey);
+  color: #676767;
   margin-bottom: var(--title-margin-bottom);
   font-size: clamp(1.5rem, 5vw, 2.3rem);
 }
