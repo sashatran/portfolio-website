@@ -20,7 +20,7 @@
 }
 
 .gradient {
-  background: linear-gradient(to right, var(--green-accent), var(--yellow-accent) 30%);
+  background: linear-gradient(to right, var(--accent-1), var(--accent-2) 30%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
