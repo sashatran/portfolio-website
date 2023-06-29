@@ -1,3 +1,5 @@
+
+
 .main {
   width: 100%;
   max-width: var(--page-max-width);
@@ -15,6 +17,12 @@
   color: #676767;
   margin-bottom: var(--title-margin-bottom);
   font-size: clamp(1.5rem, 5vw, 2.3rem);
+}
+
+.gradient {
+  background: linear-gradient(to right, var(--green-accent), var(--yellow-accent) 30%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .subtitle {

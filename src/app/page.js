@@ -151,7 +151,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className="about">
-        <h1 className={styles.title}>
+        <h1 className={styles.title + " " + styles.gradient}>
           Hi. I'm <span className="special">Sasha Tran.</span>
         </h1>
         <p className={styles.subtitle}>
